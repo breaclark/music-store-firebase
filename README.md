@@ -1,6 +1,33 @@
 # OnlineRetailStore
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.5.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.5. This is an online music store where you can view and edit music info for different artists and albums. It uses firebase and angular.
+
+## Setup/Installation Requirements
+
+* Clone Repository
+* Run npm install
+* Run ng serve --open
+
+## Known Bugs
+
+No Known Bugs
+
+## Support and contact details
+
+Contact me at breatortilla@gmail.com
+
+## Technologies Used
+
+* HTML
+* CSS
+* Javascript
+* Typescript
+* Angular
+* Firebase
+
+### License
+
+Copyright (c) 2018 **Brea Clark**
 
 ## Development server
 
